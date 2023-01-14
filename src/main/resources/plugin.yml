@@ -1,0 +1,10 @@
+name: Chestinfo
+version: '${project.version}'
+main: me.vineer.chestinfo.Chestinfo
+api-version: 1.16
+authors: [ Vineer ]
+description: prints info about chests into logs
+commands:
+  chestinfo:
+    description: enable getting info about chests
+    usage: /<command>
